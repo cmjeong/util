@@ -1,0 +1,4 @@
+vim setting & Plugin Install
+
+DO
+./installBundle_vim.sh
